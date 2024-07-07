@@ -1,0 +1,18 @@
+                    G           o       o          d
+`define STR_GOOD  32'b10111100 00111010 00111010 01111010
+
+                    Y           o         u         r
+`define STR_YOUR  32'b01110110 00111010 00111000 00101010
+                    S               c       o        r.
+`define STR_SCORE 32'b10110110 00011010 00111010 00101011
+                      F         A        I          L
+`define STR_FAIL  32'b11001110 11101110 00001100 00011100
+
+                    r            E        S        E.   
+`define STR_RESET 32'b00101010 10011110 10110110 10011111
+                    
+                     Y           o         u      <blank>
+`define STR_YOU   32'b01110110 00111010 00111000 00000000
+
+                    S            A           I      d
+`define STR_SAID  32'b10110110 11101110 00001100 01111010
